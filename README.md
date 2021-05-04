@@ -23,9 +23,6 @@ Fluid Image Pop Up with Javascript .
 # CDNJs
 - [CDNjs](https://cdnjs.com/)
 
-# Gallery
-
-![](../assets/image/gallery.png)
 
 > Gallery Image.
 # MIT License

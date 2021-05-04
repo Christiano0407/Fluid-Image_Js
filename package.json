@@ -1,0 +1,22 @@
+{
+  "name": "fluid-image",
+  "version": "1.0.0",
+  "description": "Project with Javascript",
+  "main": "src/js/index.js",
+  "scripts": {
+    "javascript": "node src/js/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Christiano0407/Fluid-Image_Js.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Chris04",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Christiano0407/Fluid-Image_Js/issues"
+  },
+  "homepage": "https://github.com/Christiano0407/Fluid-Image_Js#readme"
+}
